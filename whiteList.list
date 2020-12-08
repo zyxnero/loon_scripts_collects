@@ -1,0 +1,4 @@
+# NAME: WhiteList 
+# DESC: 被误杀的站点,直连策略,Subscription Rule
+
+DOMAIN-SUFFIX,clientaccess.10086.cn

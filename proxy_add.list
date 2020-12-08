@@ -1,0 +1,4 @@
+# NAME: Proxy_Add 
+# DESC: 未纳入远程订阅中的Proxy站点,代理策略,Subscription Rule
+
+DOMAIN-SUFFIX,api3.getflex.co
