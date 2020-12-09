@@ -1,0 +1,4 @@
+# NAME: BlackList 
+# DESC: 自需被屏蔽的站点,拦截策略,Subscription Rule
+
+DOMAIN-SUFFIX,imeclient.openspeech.cn
